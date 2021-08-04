@@ -95,7 +95,7 @@ We will follow the [Bioc2021 Code of Conduct](https://bioc2021.bioconductor.org/
 ## Workshop
 
 
-### Carpentries guiding principles
+### [Carpentries guiding principles](https://jdrnevich.github.io/BuildACarpentriesWorkshop/articles/CarpentrieGuidingPrinciples.html)
 
 
 
