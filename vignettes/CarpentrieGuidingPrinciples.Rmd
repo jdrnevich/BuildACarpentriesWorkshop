@@ -26,6 +26,6 @@ Last modified: `r Sys.Date()`.
 
 Background reading: [Overall guiding principles](https://cdh.carpentries.org/guiding-principles.html)
 
-Focus topic: [Designing and Writing Exercises](https://uofi.box.com/shared/static/bfohy4qwyw9gb6t5p1h3pvlf8v6pndlc.html)
+Focus topic: [Designing and Writing Exercises](https://jdrnevich.github.io/BuildACarpentriesWorkshop/slides/DesigningWritingExercises.html)
 
 
