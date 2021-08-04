@@ -21,6 +21,16 @@ Authors@R:
              family = "Gatto",
              role = c("aut"),
              email = "laurent.gatto@uclouvain.be",
+             comment = c(ORCID = "")),
+      person(given = "Kevin",
+             family = "Rue-Albrecht",
+             role = c("aut"),
+             email = "kevin.rue-albrecht@kennedy.ox.ac.uk",
+             comment = c(ORCID = "")),
+      person(given = "Robert",
+             family = "Castelo",
+             role = c("aut"),
+             email = "robert.castelo@upf.edu",
              comment = c(ORCID = "")))
 Description: This workshop contains a brief overview of the guiding 
   principles for lesson development from the Carpentries, and 
