@@ -60,6 +60,16 @@ jobs:
           apt-get update
           apt-get -y install rsync
 
+      - name: Render slides
+        run: |
+          rmarkdown::render("slides/DesigningWritingExercises.Rmd")
+        shell: Rscript {0}
+
+      - name: Copy slides
+        run: |
+          mkdir -p docs/slides
+          cp -r slides/DesigningWritingExercises.html slides/DesigningWritingExercises_files docs/slides/
+          
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
