@@ -138,4 +138,11 @@ Learning objectives:
 Target audience: At least a graduate student basic biology knowledge. They have or will have bulk RNA-Seq count data they need to analyze and visualize. They are already familiar with R, RStudio and Bioconductor. 
 
 
-Learning objectives: 
+Learning objectives:
+
+* Extract information from a SummarizedExperiment object.
+* Perform quality assessment steps/exploratory analysis of a gene expression matrix and understand the implications for downstream analysis.
+* Run a typical differential expression analysis using DESeq2 and interpret the output.
+* Convert between different types of gene identifiers.
+* Perform a gene set enrichment analysis.
+
