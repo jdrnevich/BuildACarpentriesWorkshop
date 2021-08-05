@@ -61,6 +61,9 @@ If you are comfortable with Git, feel free to [fork a repository](https://docs.g
 Are we going to split into tables? This could be a good way to find other interested people to work collaboratively.
 
 
+## More information on the Education Teaching Committee
+
+See our short talk in the Education and Frameworks session later today (Thursday) at 8 pm EDT. 
 
 ## Keep contributing!
 
