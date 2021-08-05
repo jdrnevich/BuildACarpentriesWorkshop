@@ -58,4 +58,17 @@ If you are comfortable with Git, feel free to [fork a repository](https://docs.g
 
 ## Tables
 
+Are we going to split into tables? This could be a good way to find other interested people to work collaboratively.
+
+
+
+## Keep contributing!
+
+Lesson development will continue after the conference. Contributions via GitHub are welcome at any time. Additionally:
+
+1. Join the #education-and-training Slack channel
+2. See the Google Doc pinned at the top of the Slack channel for information on how to join the Education Teaching Committee Google Group 
+3. Join our monthly (virtual) meetings the 2nd Monday of every month.
+
+
 
